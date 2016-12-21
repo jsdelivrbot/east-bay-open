@@ -3,9 +3,9 @@ rel="stylesheet"></link>
 
 # East Bay Open 2017
 
-It's time to grab a putter and prepare to putt for glory. The 3rd East Bay
-Open minigolf tournament will take place on January 14th at 11am at the Castro
-Valley Golfland: https://www.golfland.com/castrovalley/
+It's time to grab a putter and prepare to putt for glory. The 3rd East Bay Open
+minigolf tournament will take place on January 14th at 11am [at the Castro
+Valley Golfland](https://www.golfland.com/castrovalley/).
 
 ## What is it?
 
@@ -59,27 +59,27 @@ it out or roll another ball down.
 
 You can place your ball a putter-head length away from any walls.
 
-## How do I get there?
+### How do I get there?
 
 It's in Castro Valley. There is parking at the course, or it's about a 20
 minute walk from Castro Valley BART. (I will probably take BART and walk)
 
-## Can I use my own putter or ball?
+### Can I use my own putter or ball?
 
 No, you have to use the course provided putter and ball. On the flip side you
 can choose the color of the ball and your putter height.
 
-## How much does it cost?
+### How much does it cost?
 
 If we buy the tickets online it's $7 for the first round and $3 for the next
 round. In person it's $10 for the first round. I can buy a ticket for you, just
 email me and Venmo $10.
 
-## Can I bring a friend?
+### Can I bring a friend?
 
 Yes! Please bring friends. Everyone is welcome.
 
-## What can I do to pitch in?
+### What can I do to pitch in?
 
 Let me know that you are coming!
 
@@ -89,7 +89,7 @@ Please let me know if you want to be an official orange slice or snack sponsor.
 
 Also let me know if you have experience with logo design, that would be cool.
 
-## This sounds intense, should I come?
+### This sounds intense, should I come?
 
 You should absolutely come, it sounds a lot more intense in this email than it
 is in person. Usually you figure out you have no chance at winning around hole
