@@ -1,3 +1,6 @@
+<link href="https://cdn.rawgit.com/kevinburke/markdowncss/master/markdown.css"
+rel="stylesheet"></link>
+
 # 2017 Tournament
 
 The 2017 tournament was held on January 14th and was won by Kevin Burke.

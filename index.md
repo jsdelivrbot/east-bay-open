@@ -1,3 +1,6 @@
+<link href="https://cdn.rawgit.com/kevinburke/markdowncss/master/markdown.css"
+rel="stylesheet"></link>
+
 # East Bay Open
 
 The East Bay open is a minigolf tournament that takes place semi-annually
