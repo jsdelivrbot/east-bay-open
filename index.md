@@ -17,9 +17,9 @@ Players compete for this trophy:
 
 2014: Peter Gierlach
 
-2015: Jake Bauch
+[2015](2015): Jake Bauch
 
-2017: Kevin Burke
+[2017](2017): Kevin Burke
 
 ## Records
 
