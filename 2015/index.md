@@ -13,6 +13,10 @@ victory was never in doubt; none of the other competitors came close.
 
 ## Tweets
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">East Bay Open in progress <a href="http://t.co/tuNYznEIJx">pic.twitter.com/tuNYznEIJx</a></p>&mdash; Chad Etzel 🎷🚶 (@jazzychad) <a href="https://twitter.com/jazzychad/status/551505644541325312">January 3, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Scored 55 through 18 holes. 44 is low at the turn. <a href="https://twitter.com/hashtag/eastbayopen?src=hash">#eastbayopen</a> <a href="http://t.co/pW0ySMIBtB">pic.twitter.com/pW0ySMIBtB</a></p>&mdash; Chad Etzel 🎷🚶 (@jazzychad) <a href="https://twitter.com/jazzychad/status/551526941417672704">January 3, 2015</a></blockquote>
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Minigolf is all about how you respond to adversity” - Kevin Burke <a href="https://twitter.com/hashtag/eastbayopen?src=hash">#eastbayopen</a></p>&mdash; Kevin Burke (@derivativeburke) <a href="https://twitter.com/derivativeburke/status/551535465598164992">January 4, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finished with a score of 124 and waaaay out of contention. <a href="https://twitter.com/hashtag/eastbayopen?src=hash">#eastbayopen</a></p>&mdash; Chad Etzel 🎷🚶 (@jazzychad) <a href="https://twitter.com/jazzychad/status/551545706599559168">January 4, 2015</a></blockquote>
