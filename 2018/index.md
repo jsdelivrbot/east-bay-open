@@ -3,9 +3,10 @@ rel="stylesheet"></link>
 
 # East Bay Open 2017
 
-It's time to grab a putter and prepare to putt for glory. The 3rd East Bay
-Open minigolf tournament will take place on a time TBD [at the Castro Valley
-Golfland](https://www.golfland.com/castrovalley/).
+It's time to grab a putter and prepare to putt for glory. The 4th East
+Bay Open minigolf tournament will take place on a time TBD [at the Castro
+Valley Golfland](https://www.golfland.com/castrovalley/). [Contact
+Kevin](mailto:kev@inburke.com) if you are interested in playing!
 
 ## What is it?
 
@@ -22,9 +23,10 @@ become a part of History.
 
 The person who posts the highest score on an individual hole (Frank Bauch had
 the highest last year with 13) and the person who posts the highest overall
-score will cover the engraving cost for the winner (it's cheap, I think it is
-like $10 or something.) Everyone will get to putt at the 19th hole for a chance
-at a free game.
+score through 32 holes will cover the engraving cost for the winner (it's
+cheap, I think it is like $10 or something.) Everyone will get to putt at the
+19th hole for a chance at a free game, which can be redeemed the following
+year.
 
 ## How does this differ from usual minigolf?
 
