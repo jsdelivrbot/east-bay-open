@@ -15,7 +15,7 @@ Players compete for this trophy:
 
 ## Previous Champions
 
-2014: Peter Gierlach
+[2014](2014): Peter Gierlach
 
 [2015](2015): Jake Bauch
 
