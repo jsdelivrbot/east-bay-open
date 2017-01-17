@@ -21,6 +21,15 @@ Players compete for this trophy:
 
 [2017](2017): Kevin Burke
 
+## Next Tournament
+
+We haven't decided on a date yet, but [here's some more info][2018]. [Contact
+Kevin][contact] if you are interested!
+
+[2018]: 2018
+
+[contact]: mailto:kev@inburke.com
+
 ## Records
 
 Lowest score on 18 holes: 38 (Kevin Burke)
