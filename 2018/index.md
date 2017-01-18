@@ -1,7 +1,7 @@
 <link href="https://cdn.rawgit.com/kevinburke/markdowncss/master/markdown.css"
 rel="stylesheet"></link>
 
-# East Bay Open 2017
+# East Bay Open 4
 
 It's time to grab a putter and prepare to putt for glory. The 4th East
 Bay Open minigolf tournament will take place on a time TBD [at the Castro
@@ -18,8 +18,8 @@ in about 3 hours.
 ## What are we playing for?
 
 Jake Bauch has generously purchased a trophy! It is rad as hell. If you post
-the lowest score over 36 holes, you will engrave your name on the trophy and
-become a part of History.
+the lowest score over 36 holes, and sign and date your (correct) scorecard, you
+will engrave your name on the trophy and become a part of History.
 
 The person who posts the highest score on an individual hole (Frank Bauch had
 the highest last year with 13) and the person who posts the highest overall
