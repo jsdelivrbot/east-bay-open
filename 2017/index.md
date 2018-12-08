@@ -1,4 +1,4 @@
-<link href="https://cdn.rawgit.com/kevinburke/markdowncss/master/markdown.css"
+<link href="https://cdn.jsdelivr.net/gh/kevinburke/markdowncss/markdown.css"
 rel="stylesheet"></link>
 
 # 2017 Tournament
